@@ -1,6 +1,6 @@
 # Mangularning
 
-Senior Front-end Engineer leveling up on **Angular 15.2 (NgModule)** with **TypeScript** and **Jest** — bank-grade learning (forms, APIs, RxJS, unit tests).
+**EN (short):** Senior Front-end Engineer leveling up on **Angular 15.2 (NgModule)** with **TypeScript** and **Jest** — bank-grade learning (forms, APIs, RxJS, unit tests).
 
 Trilha de estudo **bank-grade** para dominar **Angular 15.2 (NgModule)** com **TypeScript** e **Jest** — 1h/dia, foco em qualidade e consistência.
 
