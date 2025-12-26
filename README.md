@@ -29,3 +29,4 @@ Trilha de estudo **bank-grade** para dominar **Angular 15.2 (NgModule)** com **T
 
 ## Contato
 Se quiser trocar ideia sobre Angular 15 / qualidade / testes, abra uma issue em qualquer repositório.
+- Email: **mangularning@gmail.com**
